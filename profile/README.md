@@ -6,10 +6,10 @@ Home of the AIBTC Working Group GitHub repositories and experiments.
 
 Learn more, join a meeting and get involved!
 
-- [Main Website](https://aibtc.dev)
+- [Visit our Website](https://aibtc.dev)
 - [Follow on X](https://x.com/aibtcdev)
-- [Discord](https://discord.gg/Z59Z3FNbEX)
-- [RSVP Thursdays](https://evt.to/emamdeggw)
+- [Join our Discord](https://discord.gg/Z59Z3FNbEX)
+- [RSVP for Thursdays](https://evt.to/emamdeggw)
 
 ## Repository Map
 
