@@ -1,4 +1,4 @@
-<img src="https://aibtc.com/Primary_Logo/PNG/AIBTC_PrimaryLogo_K.png" alt="AIBTC Logo" style="width: 100%; max-width: 1000px; display: block; margin: 1rem auto;" />
+<img src="https://aibtc.com/Primary_Logo/SVG/AIBTC_PrimaryLogo_KO.svg" alt="AIBTC Logo" style="width: 100%; max-width: 1000px; display: block; margin: 1rem auto;" />
 
 # AIBTC Working Group
 
